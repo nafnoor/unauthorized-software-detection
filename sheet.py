@@ -3,7 +3,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint as pp
 scope = ["https://spreadsheets.google.com/feeds",'https://www.googleapis.com/auth/spreadsheets',"https://www.googleapis.com/auth/drive.file","https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name(r"C:\Users\USER\OneDrive\Desktop\client_secret.json",scope)
+creds = ServiceAccountCredentials.from_json_keyfile_name(r"C:\nafisa\projects\git\unauthorized-software-detection",scope)
 client = gspread.authorize(creds)
 sheet = client.open("soft_list").sheet1 
 l1 = sheet.get_all_values() 
