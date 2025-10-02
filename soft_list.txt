@@ -1,0 +1,39 @@
+
+Adobe
+AppDataLow
+ArcSoft
+Chromium
+Clients
+CodeBlocks
+Edraw
+Edrawsoft
+Google
+IM Providers
+Intel
+JavaSoft
+Mathworks
+Microsoft
+MindMaster
+MiniTool Solution Ltd.
+Mirage
+Mozilla
+Netscape
+ODBC
+Opera Software
+Oracle
+Policies
+Python
+QtProject
+RegisteredApplications
+SlavaSoft
+StreamingVideoProvider
+TelegramDesktop
+virtual_audio_capture
+VS Revo Group
+WinRAR
+WinRAR SFX
+Wondershare
+Wow6432Node
+ZoomUMX
+Classes
+

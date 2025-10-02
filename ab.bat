@@ -1,0 +1,1 @@
+reg query HKEY_CURRENT_USER\SOFTWARE\ > software_list.txt
